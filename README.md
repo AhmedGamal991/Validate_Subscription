@@ -32,7 +32,7 @@ The framework tests the subscription packages on the STC TV website by validatin
 ## Languages, Frameworks, and Dependencies
 The project uses the following:
 - *[Java 19](https://openjdk.java.net/projects/jdk/11/)* as the programming language.
-- *[Selenium](https://rest-assured.io/)* as testing tool.
+- *[Selenium 4]* as testing tool.
 - *[TestNG]* as a testing runer framework.
 - *[Allure Report](https://qameta.io/allure-report/)* as the test reporting strategy.
 - *[Maven]* as the Java build tool.
