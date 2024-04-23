@@ -20,10 +20,13 @@ The framework tests the subscription packages on the STC TV website by validatin
 - **Running Tests**:
     - Use the provided scripts or commands to run tests.
     - Example command:
-
+        ```bash
         mvn test
    
+    - Build the project and download dependencies using Maven:
 
+        ```bash
+        mvn clean install
 - **Writing Tests**:
     - I Created and modify test cases as needed in the `src\test\java\tests` directory.
     - I Created a XML file that inclouded test suit for the contries 
@@ -32,10 +35,10 @@ The framework tests the subscription packages on the STC TV website by validatin
 ## Languages, Frameworks, and Dependencies
 The project uses the following:
 - *[Java 19](https://openjdk.java.net/projects/jdk/11/)* as the programming language.
-- *[Selenium 4]* as testing tool.
-- *[TestNG]* as a testing runer framework.
+- *[Selenium 4]()* as testing tool.
+- *[TestNG]()* as a testing runer framework.
 - *[Allure Report](https://qameta.io/allure-report/)* as the test reporting strategy.
-- *[Maven]* as the Java build tool.
-- *[EClips]* as the IDE.
+- *[Maven]()* as the Java build tool.
+- *[EClips]()* as the IDE.
 
 
