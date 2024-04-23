@@ -6,7 +6,7 @@ The framework tests the subscription packages on the STC TV website by validatin
 ## Installation
 
 1. **Clone the repository**:
-
+    ```bash
     git clone ["https://github.com/AhmedGamal991/Validate_Subscription.git"]
    
 
