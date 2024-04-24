@@ -32,6 +32,20 @@ The framework tests the subscription packages on the STC TV website by validatin
     - I Created a XML file that inclouded test suit for the contries 
 
 
+1. **Allure Report**:
+
+- Go to project direction 
+
+    ```bash
+        cd  Validate_Subscription
+
+ - Build allure report 
+
+    ```bash
+        allure serve
+   
+
+
 ## Languages, Frameworks, and Dependencies
 The project uses the following:
 - *[Java 19](https://openjdk.java.net/projects/jdk/11/)* as the programming language.
